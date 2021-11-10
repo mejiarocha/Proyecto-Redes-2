@@ -1,4 +1,4 @@
-# This the configuration for Profesores4-3-PC1
+# This the configuration for Admin4-2-PC1
 #
 # Uncomment the following line to enable DHCP
 # dhcp
@@ -6,4 +6,4 @@
 # ip 192.168.1.1 255.0.0.0
 #
 
-set pcname Profesores4-3-PC1
+set pcname Admin4-2-PC1
