@@ -4,3 +4,7 @@ Nov 10 17:12:12.257 HYPERVISOR: exec_cmd: hypervisor version
 Nov 10 17:12:12.257 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\juanc\OneDrive\Documents\GitHub\Proyecto-Redes-2\proyecto Redes 2\project-files\dynamips 
 Nov 10 17:12:12.265 GENERAL: working_dir=C:\Users\juanc\OneDrive\Documents\GitHub\Proyecto-Redes-2\proyecto Redes 2\project-files\dynamips
 Nov 10 17:12:12.265 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Nov 10 17:20:18.454 HYPERVISOR: exec_cmd: ethsw delete Switch1 
+Nov 10 17:20:18.456 HYPERVISOR: exec_cmd: hypervisor stop 
+Nov 10 17:20:18.643 HYPERVISOR: Stopped.
+Nov 10 17:20:18.644 GENERAL: reset done.
