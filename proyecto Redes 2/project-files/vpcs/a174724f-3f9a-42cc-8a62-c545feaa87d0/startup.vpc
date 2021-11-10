@@ -1,4 +1,4 @@
-# This the configuration for Oficina2-5-PC1
+# This the configuration for Salon4-1
 #
 # Uncomment the following line to enable DHCP
 # dhcp
@@ -6,4 +6,4 @@
 # ip 192.168.1.1 255.0.0.0
 #
 
-set pcname Oficina2-5-PC1
+set pcname Salon4-1
