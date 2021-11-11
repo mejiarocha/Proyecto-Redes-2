@@ -1,0 +1,7 @@
+Nov 10 18:34:56.954 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Nov 10 18:34:56.956 HYPERVISOR: Started on IP = localhost, TCP port = 61522.
+Nov 10 18:34:57.433 HYPERVISOR: exec_cmd: hypervisor version 
+Nov 10 18:34:57.433 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\juanc\OneDrive\Documents\GitHub\Proyecto-Redes-2\proyecto Redes 2\project-files\dynamips 
+Nov 10 18:34:57.433 GENERAL: working_dir=C:\Users\juanc\OneDrive\Documents\GitHub\Proyecto-Redes-2\proyecto Redes 2\project-files\dynamips
+Nov 10 18:34:57.434 HYPERVISOR: exec_cmd: ethsw create Switch7 
+Nov 10 18:39:17.867 HYPERVISOR: exec_cmd: ethsw rename Switch7 SurPiso3 
